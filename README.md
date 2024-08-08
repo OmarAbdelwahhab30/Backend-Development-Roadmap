@@ -1,9 +1,8 @@
 # Backend-Development-Roadmap
 > Welcome to the backend roadmap. I won't promise you that this is the best roadmap you can find, but it’s a collection of resources that have helped me reach a level in backend development that I consider to be reasonable </br>
-This roadmap, I believe, is suitable to set you on the right path for backend development. </br>
-After that, you can explore as you wish. </br>
 
 > This is a very simplified roadmap for learning backend development. I've included almost all the sources that I learned from in this roadmap.
+
 > The roadmap is divided into 4 levels. The most important thing is not to rush through completing it before mastering each part. It may take you 1 , 2 , 3 or 4 years, but that doesn't matter. The most important thing is mastery.
 
 
